@@ -35,5 +35,6 @@ for item in stackBook.items():
     pageContent = get_stack(stackUrl)
     if pageContent:
         art = get_recent_article(pageContent)
+        poop = 000
     
     
